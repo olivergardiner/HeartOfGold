@@ -9,4 +9,15 @@
 *.mop
 *Report).txt
 
+# Production files
+*.gmo
+*.gbp
+*.gbs
+*.gbl
+*.drl
+*.gtp
+*.gts
+*.gtl
+*.gto
+
 *.zip

@@ -1,4 +1,5 @@
 # Ignore list for DesignSpark PCB, a PCB layout tool
+desktop.ini
 
 # Backup files
 ~*.prj

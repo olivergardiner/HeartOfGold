@@ -1,6 +1,10 @@
 # Ignore list for DesignSpark PCB, a PCB layout tool
 desktop.ini
 
+Archive/
+Web/
+*_backup/
+
 # Backup files
 ~*.prj
 ~*.sch
@@ -19,6 +23,8 @@ desktop.ini
 *.png
 *.jpg
 *.pdf
+*.xls
+*.xlsx
 
 # Production files
 *.gmo
